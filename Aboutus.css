@@ -1,0 +1,72 @@
+.queen {
+width:570px ;
+height:30px ;
+background-color: rgb(173, 208, 231);
+margin: auto;
+margin-bottom: 10px;
+}
+
+.king {
+    width: 570px;
+    height: 400px;
+    background-color: rgb(174, 212, 230);
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.fine {
+    width: 570px;
+    height: 200px;
+    background-color: rgb(206, 222, 226);
+    margin: auto;
+    margin-bottom: 40px;
+    padding-left: 20px;
+    padding-left: 20px;
+}
+
+.prince {
+    width: 570px;
+    height: 30px;
+    background-color: rgb(164, 194, 202);
+    margin-top: 100px;
+    margin: auto;
+    padding-left: 300px;
+    padding-top: 50px;
+}
+
+.sel {
+    height: 380px;
+    width: 275px;
+    background-color: rgb(164, 197, 226);
+    margin-bottom: 50px;
+    float: left;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.sel2 {
+    height: 400px;
+    width: 275px;
+    background-color: rgb(227, 229, 230);
+    margin-bottom: 50px;
+    float: right;
+}
+.rev1{
+    height:180px ;
+    width:277px ;
+    background-color: rgb(149, 173, 196);
+
+}
+.rev2{
+    height: 200px;
+    width: 266px;
+    background-color: rgb(187, 213, 228);
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+}
+.ivo{
+    height:180px ;
+    width: 273px;
+}

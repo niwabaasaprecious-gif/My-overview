@@ -1,0 +1,67 @@
+.cow {
+  width: 570px; 
+  height: 30px; 
+  background-color: rgb(117, 151, 224);
+  margin: auto;
+  margin-bottom: 20px;
+  padding-left: 20px;
+  padding-top: 30px;
+
+}
+.goat {
+width: 490px;
+height: 400px; 
+background-color: rgb(135, 175, 228);
+margin: auto;
+
+}
+.hegoat {
+width: 235px;
+height: 390px;
+background-color: rgb(123, 160, 194);
+margin: auto;
+float: left;
+padding-left: 10px;
+padding-bottom: 10px;
+}
+.shegoat {
+    width: 225px;
+    height: 398px;
+    background-color: rgb(123, 169, 207);
+    margin: auto;
+    float: right;
+    padding-left: 10px;
+    
+}
+.real{
+  width: 225px;
+  height: 398px;
+}
+.sheep{
+  width: 450px;
+  height: 200px;
+  background-color: rgb(210, 215, 218);
+  margin: auto;
+  padding-top: 30px;
+  padding-left: 30px;
+  margin-top: 25px;
+}
+.pig{
+  width: 450px;
+  height: 200px;
+  background-color: rgb(212, 216, 218);
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+.rab{
+  width: 570px;
+  height: 40px;
+  background-color: rgb(223, 228, 226);
+  text-align: 150px;
+  margin: auto;
+  padding-top: 10px;
+  text-align: center;
+}

@@ -1,0 +1,62 @@
+.A{
+height: 30px;
+width: 570px;
+background-color: rgb(183, 205, 233);
+margin: auto;
+margin-bottom: 30px;
+padding-left: 30px;
+padding-top: 30px;
+}
+.B{
+    height: 40px;
+    width: 590px;
+    background-color: rgb(179, 208, 235);
+    margin: auto;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.C{
+    height: 260px; ;
+    width:618px ;
+    background-color: rgb(171, 210, 241);
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+.bree{
+height: 50px;
+width: 300px;
+padding-bottom: 10px;
+}
+.zee{
+height: 50px;
+width: 300px;
+padding-bottom: 10px;
+}
+.tee{
+    height: 50px;
+    width: 300px;
+    padding-bottom: 10px;
+}
+.see{
+    height: 50px;
+    width: 600px;
+    padding-bottom: 10px;
+}
+.gree{
+    height: 200px;
+    width: 300px;
+    margin-left: 490px;
+    padding-bottom: 50px;
+}
+.D{
+    height: 30px;
+    width: 590px;
+    background-color: rgb(163, 197, 230);
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 20px;
+}
